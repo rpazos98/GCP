@@ -9,7 +9,7 @@ Profesores
 
 ## Cronograma
 
-| Fecha      | Clase                   | Contenido Teórico                                                           | Laboratorios                                                                                                                                                                                                               |
+| Fecha      | Clase                   | Contenido                                                                   | Laboratorios                                                                                                                                                                                                               |
 | ---------- | ----------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 6/3/26     | 1                       | [Introduccion](Teoricas/GCP%20-%20Introduccion.pdf)                         | [ Create a Virtual Machine ](https://www.skills.google/focuses/3563?parent=catalog&search_id=77678160)                                                                                                                     |
 | 13/3/26    | 2                       | [Compute Engine + MIG](Teoricas/GCP%20-%20Compute%20Engine%20+%20MIG.pdf)   | [ Set Up Network Load Balancers ](https://www.skills.google/focuses/12007?parent=catalog&search_id=77678279)                                                                                                               |
